@@ -17,7 +17,7 @@ I also lift.
 ### Experience
 
 **Auger (Series B)** · Software Engineering Intern · Summer 2026  
-I designed and implemented a knowledge graph with over 300,000 nodes for AI agents. I also built a multi-agent evaluation harness used by 10 teams.
+I worked on applied AI research and inference infrastructure.
 
 ### Some winning projects
 
