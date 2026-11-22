@@ -1,8 +1,10 @@
 <h2 align="left">Hi, I'm Shashank 👋</h2>
 
-I’m a software engineering generalist who enjoys learning new domains quickly and solving open-ended problems. I build reliable AI agents and explore how they can change the way teams write, test, and maintain software.
+I’ve won **9 hackathons**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.  
+I’m a software engineering generalist who enjoys learning new domains quickly and building AI agents that change how teams write, test, and maintain software.  
+Outside of engineering, I enjoy learning how businesses work, investing (since I was 16), and lifting.
 
-I’ve won **9 hackathons**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.
+**Current lifting stats (lb)** · Squat 225 · Bench 225 · Deadlift 275
 
 ### Experience
 
