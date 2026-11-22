@@ -1,10 +1,8 @@
 <h2 align="left">Hi, I'm Shashank 👋</h2>
 
-I build AI agents and the infrastructure that makes them reliable. I study computer science at **UT Arlington** and expect to graduate in May 2027.
+I build AI agents and the infrastructure that makes them reliable.
 
 I'm a **9x hackathon winner**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.
-
-I care about taste: simple interfaces, fast software, and details that feel considered.
 
 <br>
 
