@@ -1,17 +1,23 @@
 <h2 align="left">Hi, I'm Shashank 👋</h2>
 
-I’ve won **9 hackathons**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.  
-I’m a software engineering generalist who enjoys learning new domains quickly and building AI agents that change how teams write, test, and maintain software.  
-Outside of engineering, I enjoy learning how businesses work, investing (since I was 16), and lifting.
+I’ve won **9 hackathons**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.
 
-**Current lifting stats (lb)** · Squat 225 · Bench 225 · Deadlift 275
+I’m a software engineering generalist who enjoys learning new domains quickly and building AI agents that change how teams write, test, and maintain software.
+
+I like learning how businesses work. I’ve been investing since I was 16, and I like working out.
+
+**Current lifting stats**
+
+- Squat · 225 lb
+- Bench · 225 lb
+- Deadlift · 275 lb
 
 ### Experience
 
 **Auger (Series B)** · Software Engineering Intern · Summer 2026  
 I designed and implemented a knowledge graph with over 300,000 nodes for AI agents. I also built a multi-agent evaluation harness used by 10 teams.
 
-### Selected wins
+### Some winning projects
 
 | Project | What it does | Company · Hackathon |
 | :-- | :-- | :-- |
