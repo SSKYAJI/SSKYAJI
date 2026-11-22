@@ -28,7 +28,7 @@ I worked on applied AI research and inference infrastructure.
 | [**Polaris**](https://devpost.com/software/parasite-2dri43) | Helps retailers compare potential store locations | GrowthFactor · Hacklytics 2026 (Georgia Tech) |
 | [**Guido**](https://devpost.com/software/https-www-youtube-com-watch-v-dqw4w9wgxcq) | Simulates F1 races to compare energy deployment strategies | NorthMark Compute Cloud · HackTX 2025 (UT Austin) |
 
-<sub>More on <a href="https://devpost.com/shashank-yaji">Devpost</a> · also won at Tidal Hackathon and HackUNT.</sub>
+<sub>More wins on <a href="https://devpost.com/shashank-yaji">Devpost</a>.</sub>
 
 ### Links
 
