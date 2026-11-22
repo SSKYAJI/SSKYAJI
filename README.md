@@ -30,6 +30,6 @@ I worked on applied AI research and inference infrastructure.
 
 <sub>More on <a href="https://devpost.com/shashank-yaji">Devpost</a> · also won at Tidal Hackathon and HackUNT.</sub>
 
-### Elsewhere
+### Socials
 
 [LinkedIn](https://www.linkedin.com/in/shashankyaji) · [Devpost](https://devpost.com/shashank-yaji) · [X](https://x.com/yaji_shash60405)
