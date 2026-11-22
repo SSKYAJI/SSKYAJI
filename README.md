@@ -8,8 +8,8 @@ I'm a **9x hackathon winner**, with prizes from Cognition, Cerebras, Snowflake, 
 
 ### Experience
 
-**Auger** · Software Engineering Intern · Summer 2026  
-I spent the summer at Auger, a Series B startup, working with former Amazon leaders Dave Clark and Sanjay Dash. I built a knowledge graph for AI agents, a multi-agent eval harness, and the inference infrastructure I later demoed to investors.
+**Auger (Series B)** · Software Engineering Intern · Summer 2026  
+I built a knowledge graph for AI agents with over 300,000 nodes and a multi-agent evaluation harness used by 10 teams.
 
 <br>
 
