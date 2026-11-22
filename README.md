@@ -15,14 +15,14 @@ I spent the summer at Auger, a Series B startup, working with former Amazon lead
 
 ### Selected wins
 
-| Project | What it does | Award |
+| Project | What it does | Company · Hackathon |
 | :-- | :-- | :-- |
-| [**Canary**](https://devpost.com/software/agi-14q6d3) | Catches silent bugs like a checkout charging the wrong total, fixes them, and writes a regression test | Best Use of Sentry API · UC Berkeley AI Hackathon 2026 |
-| [**ACG**](https://devpost.com/software/acg) | Coordinates edits across coding agents. In our benchmark, it cut prompt size 54%, from 3,721 tokens to 1,700 | 3rd, Cognition track · LA Hacks 2026 |
-| [**Relay**](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq) | Turns vague product requirements into detailed pull requests in 30 seconds | Postman + Best Use of Snowflake API · Cal Hacks 12.0 |
-| [**Terminator**](https://devpost.com/software/terminator-g02u6t) | Mixture-of-agents simulation running on Cerebras inference hardware | Best Use of Cerebras · PennApps XXVI |
-| [**Polaris**](https://devpost.com/software/parasite-2dri43) | Helps retailers compare potential store locations | GrowthFactor Challenge · Hacklytics 2026 |
-| [**Guido**](https://devpost.com/software/https-www-youtube-com-watch-v-dqw4w9wgxcq) | Simulates F1 races to compare energy deployment strategies | Best NorthMark Hack · HackTX 2025 |
+| [**Canary**](https://devpost.com/software/agi-14q6d3) | Catches silent bugs like a checkout charging the wrong total, fixes them, and writes a regression test | Sentry · UC Berkeley AI Hackathon 2026 |
+| [**ACG**](https://devpost.com/software/acg) | Coordinates edits across coding agents. In our benchmark, it cut prompt size 54%, from 3,721 tokens to 1,700 | Cognition · LA Hacks 2026 (UCLA) |
+| [**Relay**](https://devpost.com/software/https-youtu-be-dqw4w9wgxcq) | Turns vague product requirements into detailed pull requests in 30 seconds | Postman + Snowflake · Cal Hacks 12.0 (UC Berkeley) |
+| [**Terminator**](https://devpost.com/software/terminator-g02u6t) | Mixture-of-agents simulation running on Cerebras inference hardware | Cerebras · PennApps XXVI (University of Pennsylvania) |
+| [**Polaris**](https://devpost.com/software/parasite-2dri43) | Helps retailers compare potential store locations | GrowthFactor · Hacklytics 2026 (Georgia Tech) |
+| [**Guido**](https://devpost.com/software/https-www-youtube-com-watch-v-dqw4w9wgxcq) | Simulates F1 races to compare energy deployment strategies | NorthMark Compute Cloud · HackTX 2025 (UT Austin) |
 
 <sub>More on <a href="https://devpost.com/shashank-yaji">Devpost</a> · also won at Tidal Hackathon and HackUNT.</sub>
 
