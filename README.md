@@ -28,9 +28,9 @@ I built a knowledge graph for AI agents with over 300,000 nodes and a multi-agen
 
 <br>
 
-### Toolbox
+### How I work
 
-`Python` · `TypeScript` · `C++` · `Java` · `LLM agents & evals` · `Inference infra` · `Snowflake` · `Next.js`
+I’m a generalist. I love learning fast and using what I learn to solve problems. Lately I’ve been exploring how agents can change the way we write, test, and maintain software.
 
 <br>
 
