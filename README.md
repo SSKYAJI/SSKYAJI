@@ -4,14 +4,10 @@ I build AI agents and the infrastructure that makes them reliable.
 
 I'm a **9x hackathon winner**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.
 
-<br>
-
 ### Experience
 
 **Auger (Series B)** · Software Engineering Intern · Summer 2026  
 I built a knowledge graph for AI agents with over 300,000 nodes and a multi-agent evaluation harness used by 10 teams.
-
-<br>
 
 ### Selected wins
 
@@ -26,13 +22,9 @@ I built a knowledge graph for AI agents with over 300,000 nodes and a multi-agen
 
 <sub>More on <a href="https://devpost.com/shashank-yaji">Devpost</a> · also won at Tidal Hackathon and HackUNT.</sub>
 
-<br>
-
 ### How I work
 
 I’m a generalist. I love learning fast and using what I learn to solve problems. Lately I’ve been exploring how agents can change the way we write, test, and maintain software.
-
-<br>
 
 ### Elsewhere
 
