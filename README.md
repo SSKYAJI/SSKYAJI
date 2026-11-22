@@ -2,7 +2,7 @@
 
 I’ve won **9 hackathons**, with prizes from Cognition, Cerebras, Snowflake, Postman, and Sentry.
 
-I’m a software engineering generalist who enjoys learning new domains quickly and building AI agents that change how teams write, test, and maintain software.
+I’m a software engineering generalist who enjoys learning new domains quickly and building with agents.
 
 I’ve been investing since I was 16, and I like figuring out how businesses work. I enjoy working out too.
 
