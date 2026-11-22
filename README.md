@@ -6,10 +6,10 @@ I’m a software engineering generalist who enjoys learning new domains quickly 
 
 I like learning how businesses work. I’ve been investing since I was 16, and I like working out.
 
-**Current lifting stats**
+**1-rep max**
 
-- Squat · 225 lb
 - Bench · 225 lb
+- Squat · 225 lb
 - Deadlift · 275 lb
 
 ### Experience
