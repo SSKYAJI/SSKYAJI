@@ -6,7 +6,7 @@ I’m a software engineering generalist who enjoys learning new domains quickly 
 
 I’ve been investing since I was 16, and I like figuring out how businesses work. I enjoy working out too.
 
-**1-rep max**
+**Current stats (1RPM)**
 
 - Bench · 225 lb
 - Squat · 225 lb
